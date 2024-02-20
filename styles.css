@@ -64,7 +64,7 @@ main p {
     text-decoration: none;
     font-weight: 600;
 }
-a:hover {
+.links_container a:hover {
     background-color: var(--primary-color1);
     color: var(--dark-color4);
 }
@@ -74,5 +74,5 @@ a:hover {
     font-size: 12px;
 }
 .attribution a {
-    color: hsl(228, 45%, 44%);
+    color: var(--primary-color1);
 }
