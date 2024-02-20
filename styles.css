@@ -64,6 +64,10 @@ main p {
     text-decoration: none;
     font-weight: 600;
 }
+a:hover {
+    background-color: var(--primary-color1);
+    color: var(--dark-color4);
+}
 
 .attribution {
     min-height: 5rem;
