@@ -48,6 +48,7 @@ The most notable thing was finding the clamp property and learning to manipulate
 ### Continued development
 
 Overall, my speed and understanding with CSS
+Para mi mismo: El contenedor de links podrías usar un elemento UL, tiene una mejor semántica, aparte, podrias ser mas creativo y agregar una animación al :hover, y para centrar verticalmente, puedes declarar el height como 100vh (y hacer el calculo para restar el alto de attributions) :D
 
 ## Author
 
